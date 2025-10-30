@@ -423,6 +423,7 @@ video {
     border: 3px solid var(--white);
     border-radius: 10px;
     padding: 15px;
+    color: var(--black);
   }
   .home-inner .btm-content-bx {
     max-width: 65%;
@@ -559,3 +560,4 @@ video {
     margin-top: 5px;
   }
 }
+
